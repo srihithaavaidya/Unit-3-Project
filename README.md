@@ -1,10 +1,10 @@
-# ***County Public Health Data Set***
+# ***County Public Health Data Set Repository***
 
 The County Public Health Data Set is a data set with a provenance of information collected in 2014-2015 examining the public health (physical, mental, environmental, and external factors) for all counties in every state within the United States. 
 
 The purpose is to display the differences and similarities in physical health data of residents between multiple counties (within a narrowed range - same state, start with "C", etc), allowing analysis for further research investigating each respective county. 
 
-The datas potential uses:
+The data's potential uses:
 - Scientific analysis of the specific cut data
 - Viewable trend of physical health based on county
 - Conducting research to understand variations/comparibility
@@ -44,3 +44,7 @@ For any assistance, please contact:
 ### **Maintainence**
 ---
 This is a public repository and can be accessed by anyone. Although anyone can contribute to the repository, it will be maintained by Srihithaa Vaidya and any requested/proposed contributions or changes must be approved first.
+
+### **Acknowledgements**
+---
+This repository was made for my English 105 class as a Unit Project (Professor Gotzler made me do it!). 
