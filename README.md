@@ -38,13 +38,14 @@ https://github.com/srihithaavaidya/Unit-3-Project/blob/5120453a0d9097d0258e71285
 
 ### **Contact**
 ---
-For any assistance, please contact:
-- Srihithaa Vaidya, srihithaavaidya@gmail.com or srivai@ad.unc.edu
+For any assistance, please visit:
 
-### **Maintainence**
+https://support.github.com/
+
+### **Maintenance**
 ---
 This is a public repository and can be accessed by anyone. Although anyone can contribute to the repository, it will be maintained by Srihithaa Vaidya and any requested/proposed contributions or changes must be approved first.
 
 ### **Acknowledgements**
 ---
-This repository was made for my English 105 class as a Unit Project (Professor Gotzler made me do it!). 
+This repository was made as a Unit Project for my English 105-006 class taught by Professor Gotzler. As mentioned, the County Public Health data was gathered in 2014-2015 and is from the Davis Public Hub Library.
