@@ -14,7 +14,7 @@ The data's potential uses:
 
 ### **Getting Started**
 ---
-The repository contains four total files - the README file, Feeder 3.1 (procedure for creating data subset), the original County Public Health Data, and the smaller-subset of the County Public Health Data. You can get started by interacting with the repository to use the subset or by re-createing the methods employed to create the subset.  
+The repository contains four total files - the README file, Data subset Instructions, the original County Public Health Data, and the smaller-subset of the County Public Health Data. You can get started by interacting with the repository to use the subset or by re-createing the methods employed to create the subset.  
 
 ***To interact with the repository and use the subset data:***
 
@@ -28,11 +28,11 @@ https://github.com/srihithaavaidya/Unit-3-Project/blob/bd26eed9eb1d796ee50193cc3
 
 ***To re-create the computational methods employed to create the subset:***
 
-1. Click the following link or access Feeder 3.1 within the repository
+1. Click the following link or access Data subset Instructions within the repository
 
-https://github.com/srihithaavaidya/Unit-3-Project/blob/5120453a0d9097d0258e71285de12b6e6f174fec/Feeder_3_1.ipynb 
+https://github.com/srihithaavaidya/Unit-3-Project/blob/83b4dea319742db07fa8cfb54f23194a69763a59/Data%20Subset%20Instructions.ipynb
 
-2. Follow the steps in the Feeder to re-create the subset (note: the original csv file can be downloaded from the Feeder or via the link below/from the repository)
+2. Follow the steps in the Data subset Instructions to re-create the subset (note: the original csv file can be downloaded from the Data subset Instructions or via the link below/from the repository)
 
 https://github.com/srihithaavaidya/Unit-3-Project/blob/5120453a0d9097d0258e71285de12b6e6f174fec/CountyHealthData_2014-2015.csv 
 
