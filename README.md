@@ -1,13 +1,19 @@
 # ***County Public Health Data Set***
 
-The County Public Health Data Set is a data set with a provenance of information collected in 2014-2015 examining the public health (physical, mental, environmental, and external factors) for all counties in every state within the United States. The purpose is to display the differences and similarities in physical health data of residents between multiple counties (within a narrowed range - same state, start with "", etc), allowing analysis and a potential hypothesis of an expected coorelation for further research investigating each respective county. The potential uses of the data range from scientific analysis of the specific data and understandment how physical health varies between location while eliminating other factors (environmental, mental, etc) all the way to beginning research to understand the variations and comparibility between counties to form long-term possible solutions to the physical problems. 
+The County Public Health Data Set is a data set with a provenance of information collected in 2014-2015 examining the public health (physical, mental, environmental, and external factors) for all counties in every state within the United States. 
 
-The information has been narrowed down with the focus of physical health and issues in counties that start with the letter "C" within North Carolina.
-The following are the specific qualitative data:
-  - State
-  - County
-  - Poor physical health days
-  - Physical inactivity
-  - Adult obesity
-  - Diabetes
+The purpose is to display the differences and similarities in physical health data of residents between multiple counties (within a narrowed range - same state, start with "C", etc), allowing analysis for further research investigating each respective county. 
 
+The datas potential uses:
+- Scientific analysis of the specific cut data
+- Viewable trend of physical health based on county
+- Conducting research to understand variations/comparibility
+- Form long-term possible solutions (location dependent)
+- Visualize results
+- Generate public health models 
+
+### **Getting Started**
+---
+The repository contains four total files - the README file, Feeder 3.1 (procedure for creating data subset), the original County Public Health Data, and the smaller-subset of the County Public Health Data.
+
+To get started, simply download the smaller-subset of the County Public Health Data: https://github.com/srihithaavaidya/Unit-3-Project/blob/bd26eed9eb1d796ee50193cc30f598fe5be81254/CountyHealthData%20(smaller%20subset).numbers 
